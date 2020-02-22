@@ -26,3 +26,9 @@ $(document).ready(function(){
         $(".PM").show();
     });
 });
+
+$(document).ready(function(){
+    $("#work4").mouseenter(function(){
+        $("#work4").show("work4");
+    });
+});

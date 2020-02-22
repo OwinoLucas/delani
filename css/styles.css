@@ -28,6 +28,9 @@
 .what-showing4{
     display: none;
 }
+#work04{
+    display: none;
+}
 
 .folio{
     text-align: center;
@@ -35,6 +38,7 @@
 }
 .folios{
     margin-top: 1.5%;
+    text-align: center;
 
 }
 .contacts{
@@ -42,6 +46,7 @@
     color: white;
     margin-top: 1.5%;
     margin-bottom: 1.5%;
+    text-align: center;
 }
 .transparent{
     padding: 2%;
