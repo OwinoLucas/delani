@@ -30,11 +30,23 @@
 }
 #work04{
     display: none;
-}
 
+}
+#work03{
+    display: none;
+
+}
+#work02{
+    display: none;
+
+}
+#work01{
+    display: none;
+
+}
 .folio{
     text-align: center;
-    margin-top: 1.5%;
+    margin-top: 1.8%;
 }
 .folios{
     margin-top: 1.5%;
