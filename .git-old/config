@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "delani"]
+	url = master
+	fetch = +refs/heads/*:refs/remotes/delani/*

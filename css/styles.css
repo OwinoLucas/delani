@@ -1,0 +1,51 @@
+.intro{
+    background-image: url("../pics/h_img.jpg");
+    padding: 12%;
+    text-align: center;
+    color: white;
+}
+.about-us{
+    margin-top: 2%;
+    text-align: center;
+    margin-bottom: 2%;
+}
+.Service{
+    background-image: url("../pics/s_image.jpg");
+    padding: 4%;
+    text-align: center;
+    color:white;
+}
+.what-hidden{
+    text-align: center;
+    margin-top: 1.5%;
+}
+.what-showing2{
+    display: none;
+}
+
+.folio{
+    text-align: center;
+    margin-top: 1.5%;
+}
+.folios{
+    margin-top: 1.5%;
+
+}
+.contacts{
+    background-image: url("../pics/c_image.jpg");
+    color: white;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+}
+.transparent{
+    padding: 2%;
+    background-color: transparent;
+    opacity: 0.5;
+    margin-top: 1.5%;
+    
+}
+.foot{
+    text-align: center;
+}
+
+
