@@ -28,37 +28,74 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $("#work4").mouseenter(function(){
-        $("#work4").fadeToggle();
-        $("#work04").fadeToggle();
+    $("#work4").hover(function(){
+        $("#work4").fadeOut();
+        $("#work04").fadeIn();
     });
-    $("#work04").mouseleave(function(){
-        $("#work04").fadeToggle();
-        $("#work4").fadeToggle();
+    $("#work04").hover(function(){
+        $("#work04").fadeOut();
+        $("#work4").fadeIn();
     });
-    $("#work3").mouseenter(function(){
-        $("#work3").fadeToggle();
-        $("#work03").fadeToggle();
+    $("#work3").hover(function(){
+        $("#work3").fadeOut();
+        $("#work03").fadeIn();
     });
-    $("#work03").mouseleave(function(){
-        $("#work03").fadeToggle();
-        $("#work3").fadeToggle();
+    $("#work03").hover(function(){
+        $("#work03").fadeOut();
+        $("#work3").fadeIn();
     });
-    $("#work2").mouseenter(function(){
-        $("#work2").fadeToggle();
-        $("#work02").fadeToggle();
+    $("#work2").hover(function(){
+        $("#work2").fadeOut();
+        $("#work02").fadeIn();
     });
-    $("#work02").mouseleave(function(){
-        $("#work02").fadeToggle();
-        $("#work2").fadeToggle();
+    $("#work02").hover(function(){
+        $("#work02").fadeOut();
+        $("#work2").fadeIn();
     });
-    $("#work1").mouseenter(function(){
-        $("#work1").fadeToggle();
-        $("#work01").fadeToggle();
+    $("#work1").hover(function(){
+        $("#work1").fadeOut();
+        $("#work01").fadeIn();
     });
-    $("#work01").mouseleave(function(){
-        $("#work01").fadeToggle();
-        $("#work1").fadeToggle();
+    $("#work01").hover(function(){
+        $("#work01").fadeOut();
+        $("#work1").fadeIn();
     });
     
 });
+
+$(document).ready(function(){
+    $("#work5").hover(function(){
+        $("#work5").fadeOut();
+        $("#work05").fadeIn();
+    });
+    $("#work05").hover(function(){
+        $("#work05").fadeOut();
+        $("#work5").fadeIn();
+    });
+    $("#work6").hover(function(){
+        $("#work6").fadeOut();
+        $("#work06").fadeIn();
+    });
+    $("#work06").hover(function(){
+        $("#work06").fadeOut();
+        $("#work6").fadeIn();
+    });
+    $("#work7").hover(function(){
+        $("#work7").fadeOut();
+        $("#work07").fadeIn();
+    });
+    $("#work07").hover(function(){
+        $("#work07").fadeOut();
+        $("#work7").fadeIn();
+    });
+    $("#work8").hover(function(){
+        $("#work8").fadeOut();
+        $("#work08").fadeIn();
+    });
+    $("#work08").hover(function(){
+        $("#work08").fadeOut();
+        $("#work8").fadeIn();
+    });
+    
+});
+
