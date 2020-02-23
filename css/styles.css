@@ -19,6 +19,7 @@
 .what-hidden{
     text-align: center;
     margin-top: 1.5%;
+    padding-left: 4%;
 }
 .what-showing2{
     display: none;
@@ -35,14 +36,13 @@
 #work03{
     display: none;
 }
-
 #work02{
     display: none;
 }
-
 #work01{
     display: none;
 }
+
 #work05{
     display: none;
 }
@@ -63,9 +63,6 @@
 .folios{
     margin-top: 1.5%;
     text-align: center;
-    position: relative;
-    color: white;
-
 }
 .contacts{
     background-image: url("../pics/c_image.jpg");
