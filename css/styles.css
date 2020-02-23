@@ -31,28 +31,43 @@
 }
 #work04{
     display: none;
+    transform: translate(0%, -700%);
 }
 #work03{
     display: none;
+    transform: translate(0%, -700%);
+}
 }
 #work02{
     display: none;
+    transform: translate(0%, -700%);
+}
 }
 #work01{
     display: none;
+    transform: translate(0%, -700%);
+}
 }
 
 #work05{
     display: none;
+    transform: translate(0%, -700%);
+}
 }
 #work06{
     display: none;
+    transform: translate(0%, -700%);
+}
 }
 #work07{
     display: none;
+    transform: translate(0%, -700%);
+}
 }
 #work08{
     display: none;
+    transform: translate(0%, -700%);
+}
 }
 .folio{
     text-align: center;
@@ -61,6 +76,8 @@
 .folios{
     margin-top: 1.5%;
     text-align: center;
+    position: relative;
+    color: white;
 
 }
 .contacts{

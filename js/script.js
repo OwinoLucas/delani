@@ -29,12 +29,12 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#work4").hover(function(){
-        $("#work4").fadeOut();
-        $("#work04").fadeIn();
+        $("#work4").mousseleave();
+        $("#work04").mouseenter();
     });
-    $("#work04").hover(function(){
-        $("#work04").fadeOut();
-        $("#work4").fadeIn();
+    $("#work04").mouseleave(function(){
+        $("#work04").hide();
+        $("#work4").fadeTo("fast", 1);
     });
     $("#work3").hover(function(){
         $("#work3").fadeOut();
