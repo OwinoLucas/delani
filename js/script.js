@@ -29,10 +29,10 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#work4").hover(function(){
-        $("#work4").mousseleave();
-        $("#work04").mouseenter();
+        $("#work4").fadeTo("fast", 0.4);
+        $("#work04").show();
     });
-    $("#work04").mouseleave(function(){
+    $("#work04").hover(function(){
         $("#work04").hide();
         $("#work4").fadeTo("fast", 1);
     });

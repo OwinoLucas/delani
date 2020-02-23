@@ -31,44 +31,31 @@
 }
 #work04{
     display: none;
-    transform: translate(0%, -700%);
 }
 #work03{
     display: none;
-    transform: translate(0%, -700%);
-}
-}
-#work02{
-    display: none;
-    transform: translate(0%, -700%);
-}
-}
-#work01{
-    display: none;
-    transform: translate(0%, -700%);
-}
 }
 
+#work02{
+    display: none;
+}
+
+#work01{
+    display: none;
+}
 #work05{
     display: none;
-    transform: translate(0%, -700%);
-}
 }
 #work06{
     display: none;
-    transform: translate(0%, -700%);
-}
 }
 #work07{
     display: none;
-    transform: translate(0%, -700%);
-}
 }
 #work08{
     display: none;
-    transform: translate(0%, -700%);
 }
-}
+
 .folio{
     text-align: center;
     margin-top: 1.8%;
