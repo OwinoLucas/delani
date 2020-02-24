@@ -18,7 +18,7 @@ This project displays an interactive landing page for a studio that visually des
 * The business logic and UI logic of the code should be separated.
 * The project code should be consistently indented & follows proper syntax which includes camelcase and appropriate naming of variables.
 ## Link to live site
-[https://owinolucas.github.io/delani/.](Link)
+[ https://owinolucas.github.io/delani/](Link)
 ## License
 
 Copyright (c) [2020] [Lucas Otieno]
