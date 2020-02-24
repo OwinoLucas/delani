@@ -66,8 +66,9 @@
     text-align: center;
 }
 .row{
-    width: 100%;
+    width: 60%;
     height: auto;
+    margin-left: 350px;
 }
 .contacts{
     background-image: url("../pics/c_image.jpg");
