@@ -68,7 +68,7 @@ $(document).ready(function(){
         $("#work5").fadeOut();
         $("#work05").fadeIn();
     });
-    $("#work05").mouseleavehover(function(){
+    $("#work05").mouseleave(function(){
         $("#work05").fadeOut();
         $("#work5").fadeIn();
     });
