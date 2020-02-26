@@ -101,8 +101,11 @@ $(document).ready(function(){
 
 function myFunction(work){
 var work = document.getElementById("name").value;
-if (work !== null){
-    alert(work + " we have received your message. Thank you for reaching out to us.")
-    };
+if (work === ""){
+    alert("Enter valid information!!")
+    }
+    else{
+        alert(work + " we have received your message. Thank you for reaching out to us.")
+    }
     return work;
 };
